@@ -1,0 +1,18 @@
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\Party Platters.vbproj.AssemblyReference.cache
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\Party_Platters.frmPartyPlatters.resources
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\Party_Platters.Resources.resources
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\Party Platters.vbproj.GenerateResource.cache
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\Party Platters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\Party Platters.AssemblyInfoInputs.cache
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\Party Platters.AssemblyInfo.vb
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\Party Platters.vbproj.CoreCompileInputs.cache
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\bin\Debug\net6.0-windows\Party Platters.exe
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\bin\Debug\net6.0-windows\Party Platters.deps.json
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\bin\Debug\net6.0-windows\Party Platters.runtimeconfig.json
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\bin\Debug\net6.0-windows\Party Platters.dll
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\bin\Debug\net6.0-windows\Party Platters.pdb
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\Party Platters.dll
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\refint\Party Platters.dll
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\Party Platters.pdb
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\Party Platters.genruntimeconfig.cache
+C:\Users\pitli\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\Party Platters\Party Platters\obj\Debug\net6.0-windows\ref\Party Platters.dll
