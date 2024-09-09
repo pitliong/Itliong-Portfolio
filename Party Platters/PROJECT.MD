@@ -10,7 +10,6 @@ This project determines the total cost of the platter that is meant to be delive
 I had several errors regarding the system. For instance, the cost of
 
 ## Screenshots
-
-
+![Screenshot 2024-09-09 103749](https://github.com/user-attachments/assets/69309ecc-9144-4641-aa98-6f8321bcdbd8)
 ## What I learned
 What I learned from this project
