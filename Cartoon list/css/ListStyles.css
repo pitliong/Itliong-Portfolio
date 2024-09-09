@@ -1,0 +1,231 @@
+/*
+Author: Philip Itliong
+Date: Febuary 21, 2024
+File Name: ListStyles.css
+*/
+
+/* CSS Reset */
+body, header, nav, main, footer, img, h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Style rule for body and images */
+body {
+    background: linear-gradient(#e0cd67,#AFE0FF );
+    
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+
+/* Style rules for mobile viewport */
+
+
+/* Style rule rule to hide tablet-desk class */
+.tablet-desk {
+    display: none;
+}
+
+/* Style rule for header content */
+header h1 {
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3%;
+    color: #555D50;
+}
+header {
+    text-align: center;
+    font-size: em;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: #2A3439;
+}
+
+/* Style rule for navigation area */
+nav {
+    background-color: #E1CC4F;
+    padding: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 17px;
+}
+
+nav ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+nav li {
+    display: inline-block;
+    font-size: 1.5em;
+    font-family: 'B612', serif;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid rgb(158, 185, 212);
+    margin: 1%;
+}
+
+nav li a {
+    display: block;
+    color: ghostwhite;
+    padding: 0.5em 1em;
+    text-decoration: none;
+}
+
+/* Style rules for main content */
+main {
+    padding: 2%;
+    font-family: Geneva, Arial, sans-serif;
+    overflow: auto;
+    margin: 1% 1% 15%;
+    font-size: 1em;
+    background-color: aliceblue;
+    border-top: solid 0.2em cornsilk;
+    border-bottom: solid 0.2em cornsilk;
+}
+
+header {
+    font-size: 1.25em;
+    text-align: center;
+}
+
+h2 {
+    padding-top: 2%;
+    font-size: 3em;
+    text-decoration: none;
+}
+
+h3 {
+    padding-top: 3%;
+    font-size: 2em;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+
+#list {
+    float: left;
+}
+
+#conclusion {
+    width: 40%;
+    float: left;
+}
+
+.corner {
+    border-radius: 12px;
+}
+
+/* Style rule for footer content */
+footer {
+    background-color: #E1CC4F;
+    text-align: center;
+    font-size: 0.85em;
+    color: cornsilk;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-top: 2em;
+}
+
+footer a {
+    color: cornsilk;
+    text-decoration: none;
+}
+
+/* Media Query for Tablet Viewport */
+@media screen and (min-width: 950px), print {
+    /* Tablet Viewport: Style rule for nav area */
+    nav li {
+        display: inline-block;
+        margin: 1.25em;
+    }
+
+    nav li a {
+        padding-top: 0.5em;
+    }
+
+
+    /* Style rule to open Tablet-desk class */
+    .tablet-desk {
+        display: block;
+    }
+}
+
+/* Media Query for Desktop Viewport */
+@media screen and (min-width: 1050px), print {
+    /* Desktop Viewport: Style rule for nav area */
+    nav li {
+        font-size: 1.5em;
+    }
+
+    nav li a {
+        padding-left: 1.5em;
+        padding-right: 1.5em;
+        padding-top: 0.5;
+        padding-bottom: 0.5em;
+    }
+
+    nav li a:hover {
+        color: #d6ff2059;
+        background-color: #E1CC4F;
+    }
+
+    /* Desktop Viewport: Style rule for main content */
+    #picks {
+        margin-left: 5%;
+    }
+
+    /* Desktop Viewport: Style rule for footer */
+    footer {
+        clear: left;
+    }
+
+    /*Desktop Viewport: Style rule for header */
+    header {
+        width: 25%;
+        float: left;
+    }
+}
+
+/* Media Query for Large Desktop Viewport */
+@media screen and (min-width: 1440px) {
+    body {
+        background: linear-gradient(#e0cd67, #AFE0FF);
+    }
+
+    #wrapper {
+        width: 1441px;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    main {
+        background-color: cornsilk;
+    }
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border-style: double;
+}
+
+caption {
+    font-size: 2em;
+}
