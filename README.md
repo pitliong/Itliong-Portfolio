@@ -7,10 +7,10 @@ Hello, my name is Philip Itliong, I am an autistic student of Pikes Peak State C
 ## Projects
 Here are some of my coding projects I have done within the past years.
 
-1. **Party Platters:** A coding project that determines the cost of the chosen party platter based on the chosen platter minus the payment type times the loyalty points. This project is done in Visual Studios 2022.
-2. **Cartoons You Never Heard Of:** A class project that is required to be completed during the end of the Visual Coding Class. This project is done in Visual Studio Code.
+1. **Party Platters:** A coding project that determines the cost of the chosen party platter based on the chosen platter minus the payment type times the loyalty points within the coding language of **_Visual Basics_.**
+2. **Cartoon List:** A project that lists old cartoon shows and the fundamental coding functions of HTML index files and CSS styling files through **_Visual Studio Code_.**
 
 ## Contact me
-Feel free to contact me in LinkedIn. [Click here](https://www.linkedin.com/feed/) keep in touch with me.
+Feel free to contact me in LinkedIn. [Click here](https://www.linkedin.com/feed/) to keep in touch with me.
 
 Thank you for visiting my portfolio!
