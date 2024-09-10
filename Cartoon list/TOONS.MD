@@ -7,8 +7,7 @@ This project is a listing based design that contains the top five entries of car
 - HTML
   - Entry point of the website that contains the structure and elements that defines the site's layout and content
 - CSS
-  -files that define the website presentation of the web page and specifies the HTML elements.
-- Favicon
+  - files that define the website presentation of the web page and specifies the HTML elements.
 
 ## Challenges faced
 The coding algorithm is highly complex and difficult to master that some of the texts have been smushed together, some texts not being arranged perfectly, and some images just covered up the texts. I have to spend time to alter the width and size of the images and text spacing, as well as the font value of the text, so that viewers can easily read from the website.
