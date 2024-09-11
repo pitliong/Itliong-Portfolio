@@ -2,7 +2,7 @@
 This is my portfolio for CAPSTONE
 
 ## Introduction
-Hello, my name is Philip Itliong, I am an autistic student of Pikes Peak State College with a background in Computer Science since 2021. I have a strong interest in Animation and a good mind to find different angles with complex problems within work groups.
+Hello, my name is Philip Itliong, I am an autistic student of Pikes Peak State College with a background in Computer Science since 2021. I have a strong interest in Animation and a good mind to find different angles with complex problems within work groups. For my hobbies, I formerly collect trading cards, play video games, love to cook, andpractice myself in animation with Source Film Maker and Blender. 
 
 ## Projects
 Here are some of my coding projects I have done within the past years.
