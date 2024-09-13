@@ -7,7 +7,7 @@ This project determines the total cost of the platter that is meant to be delive
 - Visual Basics: An event-driven programming language that is provides a graphic user interface that allows users to modify codes and defining their designated behavior.
 
 ## Challenges
-There are no issues I had with the project.
+I had several errors regarding the system. For instance, the cost total that pops up when entered happens to exceed to go off the design screen, or that the value has not been entered properly. I had resize the design of the website's layout and entered new decimal numbers for the equal constant value to one of the platters.
 
 ## Screenshots
 ![Screenshot 2024-09-09 103749](https://github.com/user-attachments/assets/69309ecc-9144-4641-aa98-6f8321bcdbd8)
