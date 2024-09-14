@@ -1,10 +1,11 @@
 # Project 1: Party Platter
 
 ## Description
-This project determines the total cost of the platter that is meant to be delivered, based on the subtracted amount of payment times the loylty award points of the customers. This project is done in ***Visual Studio 2022.*** 
+This project determines the total cost of the platter that is meant to be delivered, based on the subtracted amount of payment times the loylty award points of the customers. This project is done in ***Visual Studio 2022,*** where I learned how to code with Visual Basic languages. Making a calculating project like this one is probably the most challenging, but it is the most satisfying projects I have ever done.
 
 ## Technologies Used
-- Visual Basics: An event-driven programming language that is provides a graphic user interface that allows users to modify codes and defining their designated behavior.
+- Visual Basics
+  - An event-driven programming language that is provides a graphic user interface that allows users to modify codes and defining their designated behavior.
 
 ## Challenges
 I had several errors regarding the system. For instance, the cost total that pops up when entered happens to exceed to go off the design screen, or that the value has not been entered properly. I had resize the design of the website's layout and entered new decimal numbers for the equal constant value to one of the platters.
