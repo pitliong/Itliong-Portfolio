@@ -19,5 +19,5 @@ Considering that it is the first time using SharePoint, I have to figure out the
 ## Outcomes
 Everything has gone pretty well within the last three weeks. The presentation has gone well, eventhough I somewhat stutter a lot within my several attempts, but I had a lot of fun with SharePoint and learned how to create a site were I can remote myself with the past projects I have done within the CIS Program.
 
-Click [![here]](https://youtu.be/FKY4T0H0-K4) to watch my presentation
+Click [here](https://youtu.be/FKY4T0H0-K4) to watch my presentation
 
